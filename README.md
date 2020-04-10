@@ -3,7 +3,7 @@
 ## Problem Description
 in this assignment, you will practice some of the basic commands to work with lists.
 
-You will be given a list to start. starter_list = [3, 18, 2, 75, 8, 33]
+You will be given a list to start: starter_list = [3, 18, 2, 75, 8, 33]
 * Append 123 to the list
 * Insert 12 into the list[2] spot
 * Remove 8 from the list
