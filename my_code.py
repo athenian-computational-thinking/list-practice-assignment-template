@@ -22,7 +22,7 @@ def check_list():        #Complete this function to check if 33 is in the list. 
     return 
 
 if __name__ == '__main__':
-    # Use the print statements below to check your code. Do not change starter_list or your program will not pass automated test.
+    # Use the print statements below to check your code. Do not change the starter_list or your program will not pass the automated test.
     starter_list = [3, 18, 2, 75, 8, 33]
     
     #print(append_to_list(starter_list))
