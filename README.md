@@ -10,21 +10,4 @@ You will be given a list to start: starter_list = [3, 18, 2, 75, 8, 33]
 * Sort list in ascending order (smallest to largest)
 * Check if 33 is in the list
 
-
-## Example
-```
-Value to increment? 5
-10
-```
-
-## Suggested Approach
-1) Suggestions go here
-
-## Hints
-* Use `input()` to prompt the user for a value. 
-
-Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-
-Run your code with: `python my_code.py`
-
-Run your tests with: `pytest`
+Note: Read the comments in `my_code.py` for more instructions!
